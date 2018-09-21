@@ -66,7 +66,3 @@ To run scripts in grid:
 `mvn test -DrunOn=grid -Dplatform=desktop` 
 
 ------------------------------------------------------------------------
-
-### Setup and Installation of the Framework
-Refer to the wiki page **https://github.com/AnujDasari/Actitime-Framework/wiki** for details on setting up and installing the framework.
-
